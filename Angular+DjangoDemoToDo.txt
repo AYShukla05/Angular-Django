@@ -1,0 +1,40 @@
+Front End:
+CRUD posts()
+Subscribed Posts
+Viewing Profiles(Getting data from BackEnd)
+CRUD Profiles
+Adding and Reading Comments
+Votes(One per post)
+
+
+Back End:
+CRUD posts
+CRUD Profiles
+Adding and Reading Comments
+getPostAsync
+Votes
+
+Subscriptions,
+Authentication(Login,Signup),
+
+Static Notification generated,
+GetMyProfile
+Saving JWT, 
+Recognising user form jwt
+Signup
+Form Validators
+
+REMAINING:
+Error Handling(Separate component), 
+Search feature, 
+Delete confirmation popup
+
+Bugs:
+Changing form to reactive form 
+Token Expiration
+
+Design Done:
+Posts, Post Detail, Post Edit
+Subscription,
+Notification,
+Profile, Profile Details, Profile Edit
