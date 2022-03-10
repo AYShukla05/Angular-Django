@@ -26,11 +26,16 @@ Form Validators
 
 REMAINING:
 Error Handling(Separate component), 
-Search feature, 
 Delete confirmation popup
+Pagination(ngx pagination)(https://www.javacodegeeks.com/2019/04/angular-pagination-example.html)
+
+Temporarily Done:
+Search feature, 
+Changing form to reactive form (Post edit form)
 
 Bugs:
-Changing form to reactive form 
+Subscribed Posts only after visiting subscription page,
+Subscribe/Umsubscribed Button
 Token Expiration
 
 Design Done:
