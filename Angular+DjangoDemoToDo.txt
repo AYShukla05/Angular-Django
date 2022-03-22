@@ -25,8 +25,7 @@ Signup
 Form Validators
 
 REMAINING:
-Error Handling(in authService), 
-AuthGuard
+DropDown Directive. Done with click event.
 
 Bugs:
 
@@ -35,8 +34,9 @@ Token Expiration(After 1 day, automatically logged out)
 Pagination(ngx pagination)(https://www.javacodegeeks.com/2019/04/angular-pagination-example.html)
 Delete confirmation popup
 Search feature, 
-Changing form to reactive form (Post edit form)
-
+Changing form to reactive form 
+Error Handling(in authService), 
+AuthGuard
 
 
 Design Done:
