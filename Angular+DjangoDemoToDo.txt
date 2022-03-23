@@ -25,6 +25,7 @@ Signup
 Form Validators
 
 REMAINING:
+Can edit any post/profile with changing url and adding '/edit',
 DropDown Directive. Done with click event.
 
 Bugs:
